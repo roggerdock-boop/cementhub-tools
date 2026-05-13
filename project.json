@@ -1,0 +1,24 @@
+{
+  "overview": "CementHub Tools is a professional cement plant engineering calculator website featuring 5 specialized tools for heat balance, mill efficiency, kiln throughput, alternative fuel substitution, and energy consumption analysis. All calculations run client-side in real time with benchmark comparisons.",
+  "features": [
+    "Heat Balance Calculator with thermal efficiency and heat loss analysis",
+    "Mill Efficiency Calculator with separator efficiency and Bond Work Index",
+    "Kiln Throughput Estimator with volumetric and thermal loading",
+    "AFR Substitution Rate Calculator for alternative fuel analysis and CO2 reduction",
+    "Energy Consumption Analyzer with OEE and energy intensity benchmarking",
+    "Industrial design with color-coded Good/Average/Poor performance indicators",
+    "Mobile-responsive layout for field use"
+  ],
+  "category": "tools",
+  "tags": [
+    "cement",
+    "industrial",
+    "calculator",
+    "engineering",
+    "energy",
+    "kiln",
+    "mill",
+    "fuel"
+  ],
+  "last_updated": "2026-05-08T15:22:53.578Z"
+}
